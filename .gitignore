@@ -1,0 +1,13 @@
+# dotenv environment variables file
+.env
+server/config.env
+
+# client app directoty after build
+client/build
+
+# client app in the server
+server/public/app
+
+# dependencies
+/node_modules
+server/node_modules

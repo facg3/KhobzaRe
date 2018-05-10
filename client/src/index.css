@@ -1,0 +1,12 @@
+html {
+  background-color: #f3f3f3;
+}
+body {
+  /* background-image: url(https://wallpaperscraft.com/image/sandwiches_coffee_sandwich_cheese_tomatoes_96532_1920x1080.jpg); */
+  height: 100vh;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
